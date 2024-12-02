@@ -2,3 +2,31 @@ CNN-based model meticulously designed to detect and classify eye diseases from i
 
 deployment
 http://127.0.0.1:8000/
+Installation
+Clone the project
+  git clone https://github.com/sharma-bhavya/EYE-DISEASE-CLASSIFICATION-AI-IN-HEALTHCARE-PROJECT/tree/main
+Go to the project directory
+  cd Eye-Disease-Classigication-and-Detection
+Install virtual Environment
+  python install virtualenv
+Create virtual Environment
+  virtualenv flask
+Enter in virtual Environment
+  cd flask
+  Scripts/activate
+Install require modules
+  pip install pandas tensorflow numpy flask pillow
+
+Run Locally
+Runs the app in the development mode
+
+python app.py
+
+
+
+
+
+
+
+Lessons Learned
+I possess expertise in developing deep learning models, including CNNs, and seamlessly integrating them into Flask applications
