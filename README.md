@@ -28,5 +28,4 @@ python app.py
 
 
 
-Lessons Learned
-I possess expertise in developing deep learning models, including CNNs, and seamlessly integrating them into Flask applications
+
