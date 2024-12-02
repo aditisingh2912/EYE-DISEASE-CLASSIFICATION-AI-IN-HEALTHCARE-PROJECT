@@ -1,4 +1,10 @@
-CNN-based model meticulously designed to detect and classify eye diseases from intricate fundus images. Leveraging a sophisticated ensemble learning approach, this model combines the strengths of Inception V3, EfficientB3, and Resnet121 pretrained models, expertly fine-tuning and enhancing them with additional layers to extract more intricate features for precise classification. The crowning achievement lies in the incorporation of a weighted average ensemble learning technique, harmoniously merging these refined models to deliver unparalleled accuracy. Complementing this groundbreaking technology is a responsive Flask-based website, intuitively crafted to facilitate seamless user interaction and efficient diagnosis, ultimately revolutionizing eye disease detection and patient care.
+This project is an attempt to create a web application-based
+eye disease detection system that will help people diagnose
+eye disease as soon as possible.This app is equipped with
+features to upload any eye image taken from any device
+to check and predict the probability of having a particular
+disease. This app provides a user-friendly interface for easier
+use.
 
 deployment
 
